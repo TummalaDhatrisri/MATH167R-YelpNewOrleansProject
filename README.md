@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MATH167R-Project2
 
 ## Geographic Analysis
