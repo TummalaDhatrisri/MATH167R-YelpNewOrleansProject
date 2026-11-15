@@ -193,7 +193,9 @@ This part examines where selected restaurants are located in New Orleans. Two ge
 
 The map shows the locations of selected restaurants in relation to New Orleans NSA.
 
-The distribution helps identify neighborhoods with clusters of selected restaurants and areas with fewer restaurants. ![](images/clipboard-994552853.png)
+The distribution helps identify neighborhoods with clusters of selected restaurants and areas with fewer restaurants.
+
+![](images/clipboard-994552853.png)
 
 ### Restaurant Locations by Census Tract
 
