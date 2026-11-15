@@ -195,7 +195,7 @@ The map shows the locations of selected restaurants in relation to New Orleans N
 
 The distribution helps identify neighborhoods with clusters of selected restaurants and areas with fewer restaurants.
 
-![](images/clipboard-994552853.png)
+![](figures/nsa_restaurant_map.png)
 
 ### Restaurant Locations by Census Tract
 
@@ -203,7 +203,7 @@ This map displays the same restaurant locations using 2020 Census tract boundari
 
 Comparing the two maps shows how the choice of geographic boundaries changes the way restaurant distribution is represented.
 
-![](images/clipboard-3146234913.png)
+![](figures/tract_restaurant_map.png)
 
 ### Geographic Comparison
 
@@ -257,7 +257,7 @@ The graph seems to imply that as the reviews increase, the reviewer-adjusted sco
 
 The adjusted score should be interpreted as a relative measure of reviewer feedback, but not a replacement for the original Yelp star rating.
 
-![](images/clipboard-503653627.png)
+![](figures/raw_vs_adjusted_ratings.png)
 
 ## Top 10 Restaurants
 
@@ -291,7 +291,7 @@ The figure below presents the ten highest-ranked restaurants based on the review
 
 Restaurants with higher adjusted scores received ratings that were more positive relative to their reviewers' personal averages.
 
-![](images/clipboard-1934382557.png)
+![](figures/top_10_restaurants.png)
 
 ### Top 10 Restaurant Locations
 
@@ -299,7 +299,7 @@ This map below shows where the top ten restaurants are located within New Orlean
 
 The map connects the ranking results to the geographic analysis and shows whether the highest-ranked restaurants are concentrated in particular areas.
 
-![](images/clipboard-557025491.png)
+![](figures/top_10_restaurants_map.png)
 
 ## 8. Conclusion
 
