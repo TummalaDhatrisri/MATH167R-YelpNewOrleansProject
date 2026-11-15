@@ -1,3 +1,6 @@
+## View the complete report
+[Open the rendered HTML report](docs/yelp_new_orleans_project.html)
+
 # MATH167R-Project2
 
 ## Geographic Analysis
