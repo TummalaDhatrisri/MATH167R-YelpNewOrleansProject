@@ -8,7 +8,7 @@ format:
     toc: true
     toc-depth: 3
     number-sections: true
-    embed-resources: true
+    embed-resources: false
     code-fold: true
     theme: cosmo
     page-layout: article
